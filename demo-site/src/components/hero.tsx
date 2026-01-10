@@ -58,7 +58,7 @@ const Hero = () => {
             transition: { duration: 0.3, ease: "easeIn" },
           }}
         >
-          Book Your Premium Clean
+          <a style={{ color:"black",textDecoration:"none"}} href="#Contact">Book Your Premium Clean</a>
         </motion.button>
       </motion.div>
 
